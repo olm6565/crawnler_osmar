@@ -10,7 +10,6 @@ public class Movie {
 	private List<Comments> comments;
 	private String directors;
 	private String url;
-	
 	private HashMap<String,String> cast = new HashMap<String,String>();
 
 	public Movie() {
